@@ -1,2 +1,9 @@
 # github-final-project
-This repository has been created for the part 1 of the final project to the course "Getting started with Git and Github" on Coursera.
+A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
+
+Input:
+   p, principal amount
+   t, time period in years
+   r, annual rate of interest
+Output
+   simple interest = p*t*r
